@@ -1,0 +1,3 @@
+import os
+os.systm("clear")
+Print("NASHWAN HACKER") 
